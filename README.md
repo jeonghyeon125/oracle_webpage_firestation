@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b231add-85ab-428d-ac51-6337248710eb)# 팀원
+# 팀원
 + **김나현**</br>
   문제사항 및 요구사항 분석, PPT 제작 및 발표
 + **김정현**</br>
