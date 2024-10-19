@@ -25,15 +25,18 @@
 + 관리자 페이지</br>
   ![image](https://github.com/user-attachments/assets/2b77b69a-bcdc-4cf0-95da-294404f9bf41)
 
-# 구현 결과
-![image](https://github.com/user-attachments/assets/3f4ae880-2e67-4880-8d70-b5f929546ec5)
-![image](https://github.com/user-attachments/assets/be3912a1-fd8b-4148-ba90-7c546c02ed22)
+# 구현 결과 예시
++ ![image](https://github.com/user-attachments/assets/3f4ae880-2e67-4880-8d70-b5f929546ec5)
++ ![image](https://github.com/user-attachments/assets/c1ec724a-2820-473f-a4c4-1a7bda4230a8)
++ ![image](https://github.com/user-attachments/assets/be3912a1-fd8b-4148-ba90-7c546c02ed22)
++ 안드로이드
+  ![image](https://github.com/user-attachments/assets/e8df09bc-740a-4c85-82bc-18a264a2af26)
+
 
 # 보완해야할 점
 + 셀렉트 박스를 통한 분류검색 시 소방서의 실제 위치가 선택된 지역과 달라도 옵션 선택이 가능함
 + 사용자에게 숫자를 입력받았을 때 코드에 오류가 생겼었는데 해당 오류를 해결하지 못하고 정수를 문자열로 받았더니 사용자가 느끼기에 숫자인 데이터도 문자 형식으로 정렬되는 문제가 생김
 + 출력되는 결과 테이블을 가운데 정렬하고자 하였지만 반응형웹 적용을 하면서 가운데 정렬이 되지 않는 페이지도 있다는 것이 아쉬움
-![image](https://github.com/user-attachments/assets/160d2170-6471-4528-98cb-d137300318ca)
 
 |최종 발표자료|
 |---|
