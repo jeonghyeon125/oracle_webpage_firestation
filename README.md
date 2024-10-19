@@ -34,19 +34,19 @@
 # 구현 결과 예시
 + 메인 홈페이지(직원)</br>
   ![image](https://github.com/user-attachments/assets/3f4ae880-2e67-4880-8d70-b5f929546ec5)
-
+  </br></br>
   
 + 메인 홈페이지(관리자)</br>
   ![image](https://github.com/user-attachments/assets/c1ec724a-2820-473f-a4c4-1a7bda4230a8)
-
+  </br></br>
   
 + 조회</br>
   ![image](https://github.com/user-attachments/assets/f1411737-4aa0-4950-ab6e-12d72df32086)
-
+  </br></br>
   
 + 안드로이드</br>
   ![image](https://github.com/user-attachments/assets/e8df09bc-740a-4c85-82bc-18a264a2af26)
-</br></br>
+  </br></br>
 
 
 # 보완해야할 점
