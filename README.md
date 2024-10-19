@@ -1,4 +1,4 @@
-# 팀원
+![image](https://github.com/user-attachments/assets/1b231add-85ab-428d-ac51-6337248710eb)# 팀원
 + **김나현**</br>
   문제사항 및 요구사항 분석, PPT 제작 및 발표
 + **김정현**</br>
@@ -32,20 +32,19 @@
 
 
 # 구현 결과 예시
-+ ![image](https://github.com/user-attachments/assets/3f4ae880-2e67-4880-8d70-b5f929546ec5)
-  </br>
++ 메인 홈페이지(직원)</br>
+  ![image](https://github.com/user-attachments/assets/3f4ae880-2e67-4880-8d70-b5f929546ec5)
 
   
-+ ![image](https://github.com/user-attachments/assets/c1ec724a-2820-473f-a4c4-1a7bda4230a8)
-  </br>
++ 메인 홈페이지(관리자)</br>
+  ![image](https://github.com/user-attachments/assets/c1ec724a-2820-473f-a4c4-1a7bda4230a8)
 
   
-+ ![image](https://github.com/user-attachments/assets/be3912a1-fd8b-4148-ba90-7c546c02ed22)
-  </br>
++ 조회</br>
+  ![image](https://github.com/user-attachments/assets/f1411737-4aa0-4950-ab6e-12d72df32086)
 
   
-+ 안드로이드
-  
++ 안드로이드</br>
   ![image](https://github.com/user-attachments/assets/e8df09bc-740a-4c85-82bc-18a264a2af26)
 </br></br>
 
